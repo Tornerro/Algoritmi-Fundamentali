@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611502315 source:d:\facultate\algoritmi fundamentali\ciclueulerian\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+

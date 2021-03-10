@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611329073 source:d:\facultate\algoritmi fundamentali\algoritmi\floydwarshall\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+	<climits>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611221310 source:d:\facultate\algoritmi fundamentali\lab1- lista adiacenta\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611249945 source:d:\facultate\algoritmi fundamentali\algoritmi\dijkstra\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+	<climits>
+

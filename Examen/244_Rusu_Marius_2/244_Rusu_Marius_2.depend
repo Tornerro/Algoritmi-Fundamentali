@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611564168 source:d:\facultate\algoritmi fundamentali\examen\244_rusu_marius_2\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+	<climits>
+

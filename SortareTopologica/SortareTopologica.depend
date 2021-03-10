@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611311215 source:d:\facultate\algoritmi fundamentali\sortaretopologica\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+

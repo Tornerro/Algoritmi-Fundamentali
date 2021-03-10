@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611423032 source:d:\facultate\algoritmi fundamentali\cuplajmaxim\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+
